@@ -70,5 +70,8 @@ Screenshots:
 ## Warning
 The datasets included in this repository are very unbalanced, with very few positive examples for several message categories. In some cases, the proportion of positive examples is less than 5%, or even less than 1%. In such cases, even though the classifier accuracy is very high (since it tends to predict that the message does not fall into these categories), the classifier recall (i.e. the proportion of positive examples that were correctly labelled) tends to be very low. As a result, care should be taken if relying on the results of this app for decision making purposes.
 
+## Get This Repository
+Get it from here [github link](https://github.com/manendranathshukla/Disaster-Response--A-Web-Based-ML-App)
+
 ## Licensing, Authors, Acknowledgements
 This app was completed as part of the Udacity Data Scientist Nanodegree. Code templates and data were provided by Udacity. The data was originally sourced by Udacity from Figure Eight.
