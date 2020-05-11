@@ -44,6 +44,11 @@ From the current working directory, run the following command:
 ## Download the Trained Model
 Trained model size is high and unable to upload on github that's why I have uploaded on google drive. If you want to get the trained model then get it from [here](https://drive.google.com/open?id=1UW-nmPvhnV9bHb1u4BjcFa6gYBSlIVq_)
 
+## Note
+If you want to clone this repository then run the below command in your terminal:
+
+`git clone https://github.com/manendranathshukla/Disaster-Response--A-Web-Based-ML-App`
+
 ## Run the web app
 Save the app folder in the current working directory.
 
